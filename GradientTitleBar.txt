@@ -1,0 +1,11 @@
+This is an enhancement of Gradient Title Bar module.
+I've added the choice to use System colours by including the respective API constants.
+I also have simplified the usage by adding the SetBarColours routine, before in the form, now in the module.
+
+
+The original module was downloaded from:
+
+	http://members.tripod.com/cuinl/Tips/gradienttitle.htm
+
+
+When you test the project must close the form through it´s close button or dialog box or VB will crash.
